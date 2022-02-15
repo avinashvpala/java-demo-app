@@ -8,6 +8,6 @@
 - To build image
 
     ```docker build -t demoapp -f Dockerfile .```
-- Create Container
+- Create Container..
     
     ```docker run -d -p 8091:8080 demoapp```
